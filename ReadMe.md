@@ -1,6 +1,5 @@
 # **Best Selling Video Games Project:**
-![alt text](Figs/Icon_2.png)
-
+![alt text](<Figs/Project Icon.png>)
 ## **1. Introduction:**
 This project analyzes the best-selling video games of all time, providing insights into the trends and titles that have dominated the gaming industry.  Using Python, data on the top 50 best-selling video games, spanning from 1984 to 2023, will be extracted from Wikipedia.  This data, representing global sales figures, will then be loaded into Power BI Desktop.  Within Power BI, the Extract, Transform, Load (ETL) process will be employed to clean, prepare, and structure the data, creating a robust foundation for analysis and reporting.  The resulting visualizations will offer a comprehensive overview of the best-selling games landscape, highlighting key performance indicators and potential patterns within this dynamic market.
 
