@@ -40,7 +40,7 @@ for index, table in enumerate(tables):
 
 ![alt text](Figs/P1.PNG)
 ---
-**4.2. Transform tables unto power query for cleaning and preparing structure the data:**
+**4.2. Transform tables Into power query for cleaning and preparing structure the data:**
 ![alt text](Figs/P2.PNG)
 ---
 ## **5. Claening & Preparing The Data In Power Query:**
